@@ -23,7 +23,7 @@ This project demonstrates **Command Query Responsibility Segregation (CQRS)** pa
 ## Installation
 1. Clone repository:
 ```shell
-git clone https://github.com/alilachguer/cqrs-bank.git
+git clone https://github.com/alilachguer/cqrs-example.git
 cd cqrs-bank
 ```
 
